@@ -1,7 +1,7 @@
 # Add Suraj as the reviewer for all pull requests in dev, qa, and prod branches
 
 # Match all files in dev branch
-dev/* @Adityagithub456
+main/* @Adityagithub456
 
 # Match all files in qa branch
 qa/* @Adityagithub456
